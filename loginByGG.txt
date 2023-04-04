@@ -1,0 +1,5 @@
+thư viện cần dùng: fluent/fluent-hc-4.2.2.jar.zip( 19 k)
+commons-logging/commons-logging-1.2.1.1.jar.zip( 56 k)
+https://jar-download.com/artifacts/org.apache.httpcomponents/httpclient/4.5.6/source-code
+commonlogging 1.2 jar
+gson 2.5
